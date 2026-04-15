@@ -85,13 +85,14 @@ Real-time telemetry and previous COTA race data enabled Red Bull to:
 
 ## Project Preview
 
-![Case Study Cover](images/2.png)
-![Race Overview](images/3.png)
-![Undercut — Position & Lap Times](images/4.png)
-![Undercut — Lap Times & Time Delta](images/5.png)
-![Pure Performance Was Not Enough — Speed](images/6.png)
-![Pure Performance Was Not Enough — Throttle](images/7.png)
-![Conclusion — Data Driven Victory](images/1.png)
+
+![Case Study Cover](images/1.png)
+![Race Overview](images/2.png)
+![Undercut — Position & Lap Times](images/3.png)
+![Undercut — Lap Times & Time Delta](images/4.png)
+![Pure Performance Was Not Enough — Speed](images/5.png)
+![Pure Performance Was Not Enough — Throttle](images/6.png)
+![Conclusion — Data Driven Victory](images/7.png)
 
 ---
 
