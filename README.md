@@ -98,10 +98,9 @@ Real-time telemetry and previous COTA race data enabled Red Bull to:
 
 ## Files
 
-| File | Description |
-|------|-------------|
-| `Formula_1.xlsx` | Lap-by-lap telemetry data: lap times, positions, speed, throttle, pit stops |
-| `Formula_1.pptx` | Full presentation deck: context, telemetry overview, race analysis, conclusion |
+| File | Description | Link |
+|------|-------------|------|
+| `Formula_1.xlsx` | Lap-by-lap telemetry data: lap times, positions, speed, throttle, pit stops | https://docs.google.com/spreadsheets/d/14DMQMj0xXJJli5R2tt0W69KZJmlHQf0C/edit?usp=drive_link&ouid=110041063401399928826&rtpof=true&sd=true
 | `Formula_1.pdf` | PDF export of the presentation |
 
 
